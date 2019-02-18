@@ -19,7 +19,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 //Route Set Up
-const articles = require('./api/routes/Articles');
-app.use('/api/articles', articles);
+const fakeSites = require('./api/routes/fakeNewsSites');
+app.use('/api/fakeSites', fakeSites);
 
 http.listen(port, (error) => (error ? console.error('Server Stopped') : console.log('Environment:' + env, '\n' + 'Port:', port)));

@@ -1,0 +1,508 @@
+{
+  "fakeNewsSites": [
+    {
+      "title": "100PercentFedUp",
+      "category": "clickbait",
+      "url": "100PercentFedUp.com",
+      "google-searches": 137000,
+      "likes": 1005880,
+      "twitter-followers": 11600,
+      "id": 1
+    },
+    {
+      "title": "21st Century Wire",
+      "category": "conspiracy",
+      "url": "http://21stcenturywire.com/",
+      "google-searches": 161000,
+      "likes": 21096,
+      "twitter-followers": null,
+      "id": 2
+    },
+    {
+      "title": "369News",
+      "category": "conspiracy",
+      "url": "369news.net/",
+      "google-searches": 37400,
+      "likes": 5866,
+      "twitter-followers": 1441,
+      "id": 3
+    },
+    {
+      "title": "70news",
+      "category": "clickbait",
+      "url": "https://70news.wordpress.com/",
+      "google-searches": 257000,
+      "likes": null,
+      "twitter-followers": null,
+      "id": 4
+    },
+    {
+      "title": "A Sheep No More",
+      "category": "conspiracy",
+      "url": "http://asheepnomore.net/",
+      "google-searches": 219000,
+      "likes": 256066,
+      "twitter-followers": 901,
+      "id": 5
+    },
+    {
+      "title": "Abcnews.com.co",
+      "category": "fake news",
+      "url": "http://abcnews.com.co/",
+      "google-searches": 11100000,
+      "likes": null,
+      "twitter-followers": null,
+      "id": 6
+    },
+    {
+      "title": "Accuracy in Media (AIM)",
+      "category": "clickbait",
+      "url": "http://www.aim.org/",
+      "google-searches": 244000,
+      "likes": 11836,
+      "twitter-followers": 22400,
+      "id": 7
+    },
+    {
+      "title": "ACN Latitudes",
+      "category": "junk science",
+      "url": "http://latitudes.org/",
+      "google-searches": 27600,
+      "likes": 1611,
+      "twitter-followers": 26500,
+      "id": 8
+    },
+    {
+      "title": "ActivistPost",
+      "category": "clickbait",
+      "url": "http://www.activistpost.com/",
+      "google-searches": 571000,
+      "likes": 542095,
+      "twitter-followers": 23700,
+      "id": 9
+    },
+    {
+      "title": "Addicting Info",
+      "category": "clickbait",
+      "url": "http://addictinginfo.org/",
+      "google-searches": 616000,
+      "likes": 1231596,
+      "twitter-followers": 21300,
+      "id": 10
+    },
+    {
+      "title": "AdwNews",
+      "category": "conspiracy",
+      "url": "http://awdnews.com/",
+      "google-searches": 13400,
+      "likes": 1762,
+      "twitter-followers": 4375,
+      "id": 11
+    },
+    {
+      "title": "Age of Autism",
+      "category": "junk science",
+      "url": "http://www.ageofautism.com/",
+      "google-searches": 344000,
+      "likes": 16663,
+      "twitter-followers": 33000,
+      "id": 12
+    },
+    {
+      "title": "Allen B. West",
+      "category": "clickbait",
+      "url": "http://www.allenbwest.com/",
+      "google-searches": 232000,
+      "likes": 1324011,
+      "twitter-followers": 586000,
+      "id": 13
+    },
+    {
+      "title": "Allen West Republic",
+      "category": "clickbait",
+      "url": "http://allenwestrepublic.com/",
+      "google-searches": 249000,
+      "likes": 752172,
+      "twitter-followers": 23400,
+      "id": 14
+    },
+    {
+      "title": "Alt Health Works",
+      "category": "junk science",
+      "url": "http://althealthworks.com/",
+      "google-searches": 91900,
+      "likes": 154882,
+      "twitter-followers": 1253,
+      "id": 15
+    },
+    {
+      "title": "Alternet",
+      "category": "clickbait",
+      "url": "http://www.alternet.org/",
+      "google-searches": 2560000,
+      "likes": 926893,
+      "twitter-followers": 122000,
+      "id": 16
+    },
+    {
+      "title": "Amandla! Media",
+      "category": "clickbait",
+      "url": "http://aidc.org.za/",
+      "google-searches": 2210000,
+      "likes": 5443,
+      "twitter-followers": 1668,
+      "id": 17
+    },
+    {
+      "title": "AmericaBlog",
+      "category": "clickbait",
+      "url": "http://americablog.com/",
+      "google-searches": 623000,
+      "likes": 10205,
+      "twitter-followers": 15600,
+      "id": 18
+    },
+    {
+      "title": "American Enterprise Institute",
+      "category": "clickbait",
+      "url": "https://www.aei.org/",
+      "google-searches": 605000,
+      "likes": 272972,
+      "twitter-followers": 67200,
+      "id": 19
+    },
+    {
+      "title": "American Free Press",
+      "category": "conspiracy",
+      "url": "http://americanfreepress.net/",
+      "google-searches": 225000,
+      "likes": 2161,
+      "twitter-followers": null,
+      "id": 20
+    },
+    {
+      "title": "American Freedom Fighters",
+      "category": "clickbait",
+      "url": "http://www.americasfreedomfighters.com/",
+      "google-searches": 73600,
+      "likes": 445053,
+      "twitter-followers": 5296,
+      "id": 21
+    },
+    {
+      "title": "American Lookout",
+      "category": "clickbait",
+      "url": "http://americanlookout.com/",
+      "google-searches": 21500000,
+      "likes": null,
+      "twitter-followers": 1409,
+      "id": 22
+    },
+    {
+      "title": "American News",
+      "category": "conspiracy",
+      "url": "http://americannews.com/",
+      "google-searches": 4530000,
+      "likes": 5483682,
+      "twitter-followers": null,
+      "id": 23
+    },
+    {
+      "title": "American News X",
+      "category": "clickbait",
+      "url": "http://americannewsx.com/",
+      "google-searches": 40100,
+      "likes": 234298,
+      "twitter-followers": 1368,
+      "id": 23
+    },
+    {
+      "title": "American Renaissance",
+      "category": "clickbait",
+      "url": "http://www.amren.com/",
+      "google-searches": 3330000,
+      "likes": 5471,
+      "twitter-followers": 15000,
+      "id": 24
+    },
+    {
+      "title": "American Spectator",
+      "category": "clickbait",
+      "url": "https://spectator.org/",
+      "google-searches": 651000,
+      "likes": 109303,
+      "twitter-followers": 33700,
+      "id": 25
+    },
+    {
+      "title": "American Thinker",
+      "category": "clickbait",
+      "url": "http://www.americanthinker.com/",
+      "google-searches": 844000,
+      "likes": 111814,
+      "twitter-followers": 35300,
+      "id": 26
+    },
+    {
+      "title": "American Updater",
+      "category": "clickbait",
+      "url": "http://americanupdater.com/",
+      "google-searches": 397000,
+      "likes": null,
+      "twitter-followers": null,
+      "id": 27
+    },
+    {
+      "title": "Americans for Prosperity",
+      "category": "clickbait",
+      "url": "https://americansforprosperity.org/",
+      "google-searches": 417000,
+      "likes": 1116622,
+      "twitter-followers": 130000,
+      "id": 28
+    },
+    {
+      "title": "AmplifyingGlass",
+      "category": "clickbait",
+      "url": "http://www.amplifyingglass.com/",
+      "google-searches": 26200,
+      "likes": 23142,
+      "twitter-followers": 1562,
+      "id": 29
+    },
+    {
+      "title": "AnonNews",
+      "category": "clickbait",
+      "url": "http://www.anonews.co/",
+      "google-searches": 123000,
+      "likes": 35668,
+      "twitter-followers": 103000,
+      "id": 30
+    },
+    {
+      "title": "Another Day in the Empire",
+      "category": "conspiracy",
+      "url": "http://anotherdayintheempire.com/",
+      "google-searches": 8070,
+      "likes": 315,
+      "twitter-followers": 9670,
+      "id": 31
+    },
+    {
+      "title": "Answers in Genesis",
+      "category": "hate",
+      "url": "https://answersingenesis.org/",
+      "google-searches": 492000,
+      "likes": 436923,
+      "twitter-followers": 46500,
+      "id": 32
+    },
+    {
+      "title": "Anti-War",
+      "category": "conspiracy",
+      "url": "http://www.antiwar.com/",
+      "google-searches": 26100000,
+      "likes": 64690,
+      "twitter-followers": 33000,
+      "id": 33
+    },
+    {
+      "title": "Awareness Act",
+      "category": "conspiracy",
+      "url": "http://awarenessact.com/",
+      "google-searches": 395000,
+      "likes": 958410,
+      "twitter-followers": 176,
+      "id": 34
+    },
+    {
+      "title": "Baltimore Gazette",
+      "category": "clickbait",
+      "url": "http://baltimoregazette.com/",
+      "google-searches": 475000,
+      "likes": null,
+      "twitter-followers": null,
+      "id": 35
+    },
+    {
+      "title": "Baptist News Global",
+      "category": "clickbait",
+      "url": "https://baptistnews.com/",
+      "google-searches": 24300,
+      "likes": 6389,
+      "twitter-followers": 5836,
+      "id": 36
+    },
+    {
+      "title": "Bare Naked Islam",
+      "category": "clickbait",
+      "url": "http://www.barenakedislam.com/",
+      "google-searches": 330000,
+      "likes": 2608,
+      "twitter-followers": 16900,
+      "id": 37
+    },
+    {
+      "title": "Bay Area Reporter",
+      "category": "clickbait",
+      "url": "http://www.ebar.com/",
+      "google-searches": 127000,
+      "likes": 11104,
+      "twitter-followers": 3105,
+      "id": 38
+    },
+    {
+      "title": "BB4SP",
+      "category": "clickbait",
+      "url": "http://bb4sp.com/",
+      "google-searches": 159000,
+      "likes": 182644,
+      "twitter-followers": 103000,
+      "id": 39
+    },
+    {
+      "title": "Before It’s News",
+      "category": "conspiracy",
+      "url": "http://beforeitsnews.com/",
+      "google-searches": 2570000,
+      "likes": 393557,
+      "twitter-followers": 62900,
+      "id": 40
+    },
+    {
+      "title": "Big Blue Vision",
+      "category": "clickbait",
+      "url": "http://bigbluevision.com/",
+      "google-searches": 7120,
+      "likes": 15084,
+      "twitter-followers": null,
+      "id": 41
+    },
+    {
+      "title": "Big Government News",
+      "category": "clickbait",
+      "url": "http://www.biggovernment.news/",
+      "google-searches": 28900000,
+      "likes": null,
+      "twitter-followers": null,
+      "id": 42
+    },
+    {
+      "title": "BigPZone aka therundownlive aka wearechange",
+      "category": "clickbait",
+      "url": "http://therundownlive.com/",
+      "google-searches": 15200,
+      "likes": null,
+      "twitter-followers": 859,
+      "id": 43
+    },
+    {
+      "title": "Bipartisan Report",
+      "category": "clickbait",
+      "url": "http://bipartisanreport.com/",
+      "google-searches": 502000,
+      "likes": 1092373,
+      "twitter-followers": 209000,
+      "id": 44
+    },
+    {
+      "title": "BizPac Review",
+      "category": "clickbait",
+      "url": "http://www.bizpacreview.com/",
+      "google-searches": 277000,
+      "likes": 2483275,
+      "twitter-followers": 40800,
+      "id": 45
+    },
+    {
+      "title": "Black Genocide",
+      "category": "conspiracy",
+      "url": "blackgenocide.org",
+      "google-searches": 140000,
+      "likes": null,
+      "twitter-followers": null,
+      "id": 46
+    },
+    {
+      "title": "Blue Lives Matter",
+      "category": "clickbait",
+      "url": "http://bluelivesmatter.blue/",
+      "google-searches": 694000,
+      "likes": 1312085,
+      "twitter-followers": 199000,
+      "id": 47
+    },
+    {
+      "title": "Blue Nation Review",
+      "category": "clickbait",
+      "url": "http://bluenationreview.com/",
+      "google-searches": 74100,
+      "likes": 1037304,
+      "twitter-followers": 58,
+      "id": 48
+    },
+    {
+      "title": "Borowitz Report",
+      "category": "satire",
+      "url": "http://www.newyorker.com/humor/borowitz-report",
+      "google-searches": 163000,
+      "likes": null,
+      "twitter-followers": 586542,
+      "id": 49
+    },
+    {
+      "title": "Breitbart",
+      "category": "clickbait",
+      "url": "http://www.breitbart.com/",
+      "google-searches": 9880000,
+      "likes": 2855869,
+      "twitter-followers": 502000,
+      "id": 50
+    },
+    {
+      "title": "Bust Magazine",
+      "category": "clickbait",
+      "url": "http://bust.com/",
+      "google-searches": 247000,
+      "likes": 133256,
+      "twitter-followers": 62000,
+      "id": 51
+    },
+    {
+      "title": "Call the Cops",
+      "category": "satire",
+      "url": "http://www.callthecops.net/",
+      "google-searches": 371000,
+      "likes": 17242,
+      "twitter-followers": 485,
+      "id": 52
+    },
+    {
+      "title": "Canada Free Press",
+      "category": "clickbait",
+      "url": "http://canadafreepress.com/",
+      "google-searches": 289000,
+      "likes": 16225,
+      "twitter-followers": 11310,
+      "id": 53
+    },
+    {
+      "title": "Canadian Dimension",
+      "category": "clickbait",
+      "url": "https://canadiandimension.com/",
+      "google-searches": 51300,
+      "likes": 4009,
+      "twitter-followers": 2386,
+      "id": 54
+    },
+    {
+      "title": "Cap News",
+      "category": "satire",
+      "url": "http://cap-news.com/",
+      "google-searches": 162000,
+      "likes": 1654,
+      "twitter-followers": 4084,
+      "id": 55
+    }
+  ]
+}
