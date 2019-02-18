@@ -22,4 +22,8 @@ app.use(express.urlencoded({ extended: false }));
 const fakeSites = require('./api/routes/fakeNewsSites');
 app.use('/api/fakeSites', fakeSites);
 
+app.use('*', (req, res, next) =>
+  res.status(404).json('Mate the resource your are looking for is nowhere to be found! \n Please make sure you know what you are doing!')
+);
+
 http.listen(port, (error) => (error ? console.error('Server Stopped') : console.log('Environment:' + env, '\n' + 'Port:', port)));

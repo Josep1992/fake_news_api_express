@@ -11,7 +11,7 @@ router.get('/id/:id', async (req, res, next) => {
     const fake_site = await getSingleSite(id, json.fakeNewsSites);
     fake_site !== undefined ? res.json(fake_site) : res.status(400).json({ message: `Mate the id:${id} just vanished!` });
   } catch (err) {
-    log.error(chalk.bold.red(err));
+    res.status(500) && log.error(chalk.bold.red(err));
   }
 });
 
@@ -21,7 +21,7 @@ router.get('/category/:category', async (req, res, next) => {
     const byCategories = await filterByCategory(category, json.fakeNewsSites);
     byCategories.length !== 0 ? res.json(byCategories) : res.status(400).json({ message: `Mate wrong category` });
   } catch (err) {
-    log.error(chalk.bold.red(err));
+    res.status(500) && log.error(chalk.bold.red(err));
   }
 });
 
