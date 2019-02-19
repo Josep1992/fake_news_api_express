@@ -25,4 +25,4 @@ app.use('*', (req, res) =>
   res.status(404).json({ message: 'Mate the resource your are looking for is nowhere to be found! \n Please make sure you know what you are doing!' })
 );
 
-http.listen(port, (error) => (error ? console.error('Server Stopped') : console.log('Environment:' + env, '\n' + 'Port:', port)));
+http.listen(port, (error) => (error ? console.error('Server Stopped') : console.log('Port:', port)));

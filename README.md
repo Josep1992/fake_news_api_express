@@ -18,10 +18,10 @@ Endpoints
 HTTP METHOD GET:
 
 - localhost:5000/api/fakesites = will return array of fakeNEWS websites
-- localhost:5000/api/fakesites/id/:**id**
+- localhost:5000/api/fakesites/article/:id**id**
 
 ```
-will return specific fakeNews Site
+will return the articles associated to websites id.
 if **id** does not exist will return error message and 400 status code.
 
 ```
@@ -33,3 +33,5 @@ if **id** does not exist will return error message and 400 status code.
   if **category** does not exist will return error message and 400 status code.
 
 ```
+
+Fake Sites JSON Template is from [aligajani/fake-news-detector](https://github.com/aligajani/fake-news-detector)
