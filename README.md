@@ -18,7 +18,7 @@ Endpoints
 HTTP METHOD GET:
 
 - localhost:5000/api/fakesites = will return array of fakeNEWS websites
-- localhost:5000/api/fakesites/article/:id**id**
+- localhost:5000/api/fakesites/articles/:id
 
 ```
 will return the articles associated to websites id.
@@ -26,7 +26,7 @@ if **id** does not exist will return error message and 400 status code.
 
 ```
 
-- localhost:5000/api/fakesites/category/:**category** = will return array of sites according to the url parameter example:
+- localhost:5000/api/fakesites/category/: **category** = will return array of sites according to the url parameter example:
 
 ```
   localhost:5000/api/fakesites/category/clickbait
