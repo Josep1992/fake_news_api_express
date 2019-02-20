@@ -5,7 +5,7 @@ const chalk = require('chalk');
 
 router.get('/', (req, res, next) => res.json(json_Sites.fakeNewsSites));
 
-router.get('/article/:id', async (req, res, next) => {
+router.get('/articles/:id', async (req, res, next) => {
   const { id } = req.params;
   try {
     const article = await getSiteArticles(id, json_Articles.fake_articles);
