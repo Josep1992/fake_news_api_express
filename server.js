@@ -6,13 +6,11 @@ const http = require('http').Server(app);
 const port = process.env.PORT || 5000;
 
 //MiddleWare
-const helmet = require('helmet');
 const cors = require('cors');
 const morgan = require('morgan');
 
 //Initialize Middleware
 app.use(morgan('dev')); // Better login of the request
-app.use(helmet());
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
