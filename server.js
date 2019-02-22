@@ -16,8 +16,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 //Route Set Up
-const fakeSites = require('./api/routes/fakeNewsSites');
-app.use('/api/fakesites', fakeSites);
+app.use('/api/fakesites', require('./api/routes/fakeNewsSites'));
 
 app.use('*', (req, res) =>
   res.status(404).json({ message: 'Mate the resource your are looking for is nowhere to be found! \n Please make sure you know what you are doing!' })

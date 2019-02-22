@@ -4,90 +4,90 @@
       "title": "100PercentFedUp",
       "category": "conspiracy",
       "url": "100PercentFedUp.com",
-      "google-searches": 137000,
+      "google_searches": 137000,
       "likes": 1005880,
-      "twitter-followers": 11600,
+      "twitter_followers": 11600,
       "id": 1
     },
     {
       "title": "21st Century Wire",
       "category": "conspiracy",
       "url": "http://21stcenturywire.com/",
-      "google-searches": 161000,
+      "google_searches": 161000,
       "likes": 21096,
-      "twitter-followers": null,
+      "twitter_followers": null,
       "id": 2
     },
     {
       "title": "369News",
       "category": "conspiracy",
       "url": "369news.net/",
-      "google-searches": 37400,
+      "google_searches": 37400,
       "likes": 5866,
-      "twitter-followers": 1441,
+      "twitter_followers": 1441,
       "id": 3
     },
     {
       "title": "70news",
       "category": "fake news",
       "url": "https://70news.wordpress.com/",
-      "google-searches": 257000,
+      "google_searches": 257000,
       "likes": null,
-      "twitter-followers": null,
+      "twitter_followers": null,
       "id": 4
     },
     {
       "title": "A Sheep No More",
       "category": "fake news",
       "url": "http://asheepnomore.net/",
-      "google-searches": 219000,
+      "google_searches": 219000,
       "likes": 256066,
-      "twitter-followers": 901,
+      "twitter_followers": 901,
       "id": 5
     },
     {
       "title": "Abcnews.com.co",
       "category": "fake news",
       "url": "http://abcnews.com.co/",
-      "google-searches": 11100000,
+      "google_searches": 11100000,
       "likes": null,
-      "twitter-followers": null,
+      "twitter_followers": null,
       "id": 6
     },
     {
       "title": "Accuracy in Media (AIM)",
       "category": "clickbait",
       "url": "http://www.aim.org/",
-      "google-searches": 244000,
+      "google_searches": 244000,
       "likes": 11836,
-      "twitter-followers": 22400,
+      "twitter_followers": 22400,
       "id": 7
     },
     {
       "title": "ACN Latitudes",
       "category": "junk science",
       "url": "http://latitudes.org/",
-      "google-searches": 27600,
+      "google_searches": 27600,
       "likes": 1611,
-      "twitter-followers": 26500,
+      "twitter_followers": 26500,
       "id": 8
     },
     {
       "title": "ActivistPost",
       "category": "clickbait",
       "url": "http://www.activistpost.com/",
-      "google-searches": 571000,
+      "google_searches": 571000,
       "likes": 542095,
-      "twitter-followers": 23700,
+      "twitter_followers": 23700,
       "id": 9
     },
     {
       "title": "Addicting Info",
       "category": "clickbait",
       "url": "http://addictinginfo.org/",
-      "google-searches": 616000,
+      "google_searches": 616000,
       "likes": 1231596,
-      "twitter-followers": 21300,
+      "twitter_followers": 21300,
       "id": 10
     }
   ]
