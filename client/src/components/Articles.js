@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-class Articles extends React.Component {
+export default class Articles extends React.Component {
   state = {
     site: [],
   };
@@ -15,11 +15,12 @@ class Articles extends React.Component {
   };
 
   render() {
+    const { title, category } = this.props.location.state;
     return (
       <>
-        <h1>{this.props.location.state.title} articles</h1>
+        <h1>{title} articles</h1>
         <h4>
-          {this.props.location.state.category} <span role="img">📰</span> news
+          {category} <span role="img">📰</span> news
         </h4>
         <button className="btn">
           <Link to="/">
@@ -42,5 +43,3 @@ class Articles extends React.Component {
     );
   }
 }
-
-export default Articles;

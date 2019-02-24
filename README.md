@@ -1,4 +1,4 @@
-Fake News site Express Api
+Fake News site Express Api with React Client
 
 Install Dependencies
 
@@ -13,24 +13,25 @@ Start Server
 yarn start or npm start (**The server will start using nodemon)
 ```
 
+Start Server and Client
+
+```
+yarn dev or npm run dev
+```
+
 Endpoints
 
 HTTP METHOD GET:
 
-- localhost:5000/api/fakesites = will return array of fakeNEWS websites
-- localhost:5000/api/fakesites/articles/:id
-
 ```
-will return the articles associated to websites id.
-if **id** does not exist will return error message and 400 status code.
+- localhost:5000/api/fakesites = will return array of fakeNEWS websites.
+- localhost:5000/api/fakesites/articles/:id = will return articles from the corresponding news site.
+- localhost:5000/api/fakesites/category/:category = will return array of sites according to the url parameter category:
 
-```
+Errors
+if(!id )return error message and 400 status code.
+if(!category )return error message and 400 status code.
 
-- localhost:5000/api/fakesites/category/: **category** = will return array of sites according to the url parameter example:
-
-```
-  localhost:5000/api/fakesites/category/clickbait
-  if **category** does not exist will return error message and 400 status code.
 
 ```
 
