@@ -1,4 +1,4 @@
-Fake News site Express Api with React Client
+Fake News(Express Api with React Client)
 
 Install Dependencies on Server and Client
 
