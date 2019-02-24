@@ -1,9 +1,10 @@
 Fake News site Express Api with React Client
 
-Install Dependencies
+Install Dependencies on Server and Client
 
 ```
-npm install or yarn install
+server: npm install or yarn install
+client: yarn install:client or npm run install:client
 ```
 
 Start Server
