@@ -4,6 +4,7 @@ const http = require('http').Server(app);
 
 //Config
 const port = process.env.PORT || 5000;
+const env = process.env.NODE_ENV || 'development';
 
 //MiddleWare
 const cors = require('cors');

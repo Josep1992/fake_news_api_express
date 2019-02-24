@@ -5,13 +5,16 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js"
+    "nodemon": "nodemon server.js",
+    "client": "cd client && yarn start",
+    "dev": "concurrently \"yarn start \" \"yarn client\""
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
+    "concurrently": "^4.1.0",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "helmet": "^3.15.1",

@@ -46,7 +46,7 @@
       "id": 5
     },
     {
-      "title": "Abcnews.com.co",
+      "title": "Abcnews.co",
       "category": "fake news",
       "url": "http://abcnews.com.co/",
       "google_searches": 11100000,
@@ -55,7 +55,7 @@
       "id": 6
     },
     {
-      "title": "Accuracy in Media (AIM)",
+      "title": "Accuracy in Media",
       "category": "clickbait",
       "url": "http://www.aim.org/",
       "google_searches": 244000,
@@ -65,7 +65,7 @@
     },
     {
       "title": "ACN Latitudes",
-      "category": "junk science",
+      "category": "fake news",
       "url": "http://latitudes.org/",
       "google_searches": 27600,
       "likes": 1611,

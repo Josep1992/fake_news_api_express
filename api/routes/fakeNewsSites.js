@@ -5,7 +5,7 @@ const chalk = require('chalk');
 
 router.get('/', (req, res, next) => {
   try {
-    res.json(json_Sites.fakeNewsSites);
+    res.status(200).json(json_Sites.fakeNewsSites);
   } catch (error) {
     res.status(400).json({ message: 'Data not found, please try again in a few minutes.' });
   }
