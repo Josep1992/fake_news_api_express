@@ -2,6 +2,13 @@ Fake News(Express Api with React Client)
 
 Install Dependencies on Server and Client
 
+The project is configured to run with yarn if you don't have it installed on your system run:
+
+```
+npm install -g yarn
+if(you don't want to install yarn go to the package.json file and change the yarn command's for npm)
+```
+
 ```
 server: npm install or yarn install
 client: yarn install:client or npm run install:client
