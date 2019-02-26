@@ -6,9 +6,9 @@
   "scripts": {
     "start": "node server.js",
     "nodemon": "nodemon server.js",
-    "client": "cd client && yarn start",
-    "install:client": "cd client && yarn install",
-    "dev": "concurrently \"yarn start \" \"yarn client\""
+    "client": "cd client && npm start",
+    "install:client": "cd client && npm install",
+    "dev": "concurrently \"npm start \" \"npm client\""
   },
   "keywords": [],
   "author": "",
